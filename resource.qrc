@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>background_black.png</file>
+    <file>balckground.png</file>
+    <file>Emer_OFF.png</file>
+    <file>Emer_ON.png</file>
+    <file>LED_Alarm.png</file>
+    <file>LED_OFF.png</file>
+    <file>LED_ON.png</file>
+    <file>LED_Stop.png</file>
+    <file>vision.png</file>
+    <file>Name_tag.jpg</file>
+  </qresource>
+</RCC>
