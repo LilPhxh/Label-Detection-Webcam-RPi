@@ -1,1 +1,11 @@
-# Labbel-Detection-Webcam-RPi
+# PRODUCT LABEL DETECTOR FROM COMPUTER VISION
+<div id="header" align="center">เครื่องตรวจจับฉลากสินค้าจากคอมพิวเตอร์วิทัศน์</div>
+
+<div id="text1" align="center">Projec นี้เป็น Projec เพื่อการศึกษาระดับปริญญาตรี คณะวิศวกรรมศาสตร์ สาขาอิเล็กทรอนิกส์อัจฉริยะ ปีการศึกษา 2566 </div>
+<div id="text1" align="center">มหาวิทยาลัยเทคโนโลยีราชมงคลอีสาน วิทยาเขต ขอนแก่น</div>
+
+จัดทำโดย นายนวพล สุขสงคราม และนายปฏิภาณ หินรามัญ
+
+>ซึ้ง Projec นี้เป็นการใช้กล้อง Webcam ในการตรวจจับ QRCode พัฒนาด้วยภาษา Python และใช้ OpenCV ในการประมวลผลภาพ ในส่วนของ GUI ของ Projec สร้างด้วยโปรแกรม QT 5 Designer 
+
+ปล.ผิดพลาดประการใคทีมผู้จัดทำต้องขออภัยไว้ ณ ที่นี้
